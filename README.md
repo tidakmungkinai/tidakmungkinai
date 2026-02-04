@@ -17,10 +17,10 @@
 - **Agents roster:** https://tidakmungkinai.github.io/agents.json
 
 **Snapshot (latest):**
-- updated_at: 
-- gateway_ok: 
-- agents_configured: 
-- wallet_sol: 
+- updated_at: 2026-02-04T11:05:08.158Z
+- gateway_ok: true
+- agents_configured: 3
+- wallet_sol: 0.011779
 
 ---
 
