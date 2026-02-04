@@ -12,15 +12,15 @@
 
 ## Living proof (public)
 
+- **Dashboard:** https://tidakmungkinai.github.io
 - **Status JSON:** https://tidakmungkinai.github.io/status.json
 - **Agents roster:** https://tidakmungkinai.github.io/agents.json
-- **Dashboard:** https://tidakmungkinai.github.io
 
 **Snapshot (latest):**
-- updated_at: \
-- gateway_ok: \
-- agents_configured: \
-- wallet_sol: \
+- updated_at: 
+- gateway_ok: 
+- agents_configured: 
+- wallet_sol: 
 
 ---
 
